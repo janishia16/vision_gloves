@@ -1,0 +1,20 @@
+laptop
+mobile
+bottle
+paper
+bag
+fruit
+vegetables
+watch
+spectacles
+socket
+footwear
+book
+table
+earphone
+key
+walkiing stick
+wallet
+stationary
+toothbrush
+chair
